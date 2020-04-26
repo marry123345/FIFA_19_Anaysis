@@ -1,6 +1,6 @@
 # FIFA'19 DATA ANALYSIS
 
-## Link to my blogpost is [here](https://medium.com/@itsmohit.kr95/data-analysis-of-fifa-2019-f99d64b44e58).
+## Link to my blogpost is [here](https://medium.com/@prabhukumar1322/data-analysis-of-fifa-2019-26e052da5a64).
 
 ### Table of Contents
 
